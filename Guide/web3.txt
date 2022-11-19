@@ -1,0 +1,14 @@
+There are a few different libraries that can be used to interact with blockchain on ReactJs / Nextjs frontends. Some of these include:
+
+1) Web3React -> https://lnkd.in/dFSgQHWF
+2) wagmi -> https://lnkd.in/dFYJKb_d
+3) react-moralis -> https://lnkd.in/dsxwYNXu
+4) use-dapp -> https://lnkd.in/dHi62556
+5) web3Modal -> https://lnkd.in/dv4FPa4F
+6) useMetamask -> https://lnkd.in/dvWugR_H
+
+we can also use pure ethersjs or web3, but it gets harder to manage it. Above libraries give us flexibility by providing us the hooks which can be used to interact with blockchain or smart contract easier. If we are using vanilla JavaScript then ethersjs or web3 is good
+
+If you know any other libraries, please mention them below. 😊😊
+
+#frontend #reactjs #nextjs #blockchain #ethereum #web3 #metamask
